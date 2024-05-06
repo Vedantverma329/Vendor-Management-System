@@ -40,10 +40,10 @@ python manage.py runserver
 ### API Endpoints
 
 - **Acknowledgment Date Endpoint**:
-  - POST /api/purchase_orders/{po_id}/acknowledge: Acknowledge the receipt of a purchase order. This endpoint updates the acknowledgment date and triggers the recalculation of average response time.
+  - POST /purchase_orders/{po_id}/acknowledge: Acknowledge the receipt of a purchase order. This endpoint updates the acknowledgment date and triggers the recalculation of average response time.
 
   Example:
-POST /api/purchase_orders/1/acknowledge
+POST /purchase_orders/1/acknowledge
 
 ## API Endpoints
 
