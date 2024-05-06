@@ -1,7 +1,4 @@
 Django==3.2.12
 djangorestframework==3.12.4
 
-You can add or remove dependencies from this file as per your project's requirements. Once you've created or updated the requirements.txt file, you can use it to install the project dependencies by running:
-  
-pip install -r requirements.txt
 
