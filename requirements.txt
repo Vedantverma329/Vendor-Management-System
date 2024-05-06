@@ -4,4 +4,4 @@ djangorestframework==3.12.4
 You can add or remove dependencies from this file as per your project's requirements. Once you've created or updated the requirements.txt file, you can use it to install the project dependencies by running:
   
 pip install -r requirements.txt
-This command will install all the packages listed in the requirements.txt file, ensuring that your project has all the necessary dependencies installed and ready to use. Let me know if you need further assistance
+
